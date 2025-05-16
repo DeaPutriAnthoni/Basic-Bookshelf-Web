@@ -6,6 +6,11 @@
 
 ---
 
+> Author: **Dea Putri Anthoni**  
+> University: Informatics, Class B of 2022
+
+---
+
 ## 🚀 Features
 
 - ✅ Add, edit, and delete books
