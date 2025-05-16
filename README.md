@@ -2,7 +2,7 @@
 
 **Bookself Apps** is a modern and interactive book management web application that allows users to add, track, and organize books into "Read" and "Unread" categories. This project was built as part of the [Dicoding Submission](https://www.dicoding.com/) for the **Web Front-End** class.
 
-![Screenshot](./assets/read.jpg)
+![Screenshot](./bookshelf-app/assets/read.jpg)
 
 ---
 
