@@ -7,7 +7,7 @@
 ---
 
 > Author: **Dea Putri Anthoni**  
-> University: Informatics, Mulawarman University
+> Mulawarman University
 
 ---
 
