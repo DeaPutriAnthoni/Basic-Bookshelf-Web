@@ -22,9 +22,3 @@
 - **CSS3** – modern design with responsive layout
 - **JavaScript** – dynamic DOM manipulation and app logic
 - **LocalStorage API** – data persistence on the browser
-
----
-
-## 🖥️ Interface Preview
-
-
