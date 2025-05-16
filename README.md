@@ -7,7 +7,7 @@
 ---
 
 > Author: **Dea Putri Anthoni**  
-> University: Informatics, Class B of 2022
+> University: Informatics, Mulawarman University
 
 ---
 
